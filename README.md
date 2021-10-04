@@ -36,7 +36,43 @@ learning Order:
     - https://github.com/My-JavaScript-Repo/PartThree-Bundling-7-of-7
     
 7. Working with Data Structures
-8. Manipulating the DOM
-9. JavaScript Events
-10. Asynchronous JavaScript
+    - https://github.com/My-JavaScript-Repo/Data-Structures-1-intro
+    - https://github.com/My-JavaScript-Repo/Data-Structures-2-arrays
+    - https://github.com/My-JavaScript-Repo/Data-Structures-3-array-methods
+    - https://github.com/My-JavaScript-Repo/Data-Structures-4-array-lab
+    - https://github.com/My-JavaScript-Repo/Data-Structures-5-objects
+    - https://github.com/My-JavaScript-Repo/Data-Structures-6-modifying-objects
+    - https://github.com/My-JavaScript-Repo/Data-Structures-7-objects-lab
+    - https://github.com/My-JavaScript-Repo/Data-Structures-8-debugging-in-node
+    - https://github.com/My-JavaScript-Repo/Data-Structures-9-errors-and-stack-traces
+    - https://github.com/My-JavaScript-Repo/Data-Structures-10-looping-code-along
+    - https://github.com/My-JavaScript-Repo/Data-Structures-11-object-iteration
+    - https://github.com/My-JavaScript-Repo/Data-Structures-12-traversing-nested-objects
+    
+9. Manipulating the DOM
+    - https://github.com/My-JavaScript-Repo/Dom-1-introduction
+    - https://github.com/My-JavaScript-Repo/Dom-2-editing-lab
+    - https://github.com/My-JavaScript-Repo/Dom-3-Changing-the-DOM-dev-tools
+    - https://github.com/My-JavaScript-Repo/DOM-4-DOM-is-a-tree
+    - https://github.com/My-JavaScript-Repo/DOM-5-query-selector-methods
+    - https://github.com/My-JavaScript-Repo/Dom-6-modifying-elements-lab
+   
+11. JavaScript Events
+    - https://github.com/My-JavaScript-Repo/Javascript-events-1
+    - https://github.com/My-JavaScript-Repo/Javascript-events-2-event-listening-lab
+    - https://github.com/My-JavaScript-Repo/Javascript-events-3-acting-on-events-lab
+    - https://github.com/My-JavaScript-Repo/Javascript-events-4-konami-code-lab
+    - https://github.com/My-JavaScript-Repo/Javascript-events-5-domcontentloaded-lab
+    - https://github.com/My-JavaScript-Repo/Javascript-events-6-acting-on-events-lab
+    - https://github.com/My-JavaScript-Repo/Javascript-events-7-basics-create-HTML-from-JSON-lab
+    - https://github.com/My-JavaScript-Repo/Javascript-events-8-basics-password-generator-lab
+    - https://github.com/My-JavaScript-Repo/Javascript-events-9-meditation-trainer
+    
+13. Asynchronous JavaScript
+    - https://github.com/My-JavaScript-Repo/js-async-1-fetch-readme
+    - https://github.com/My-JavaScript-Repo/js-async-2-ice-and-fire-fetch-lab
+    - https://github.com/My-JavaScript-Repo/js-async-3-weather-api-lab
+    - https://github.com/My-JavaScript-Repo/js-async-4-intro-to-async
+    - https://github.com/My-JavaScript-Repo/js-async-5-intro-to-promises
+    - https://github.com/My-JavaScript-Repo/js-async-6-legacy-data-fetch-xhr
 
