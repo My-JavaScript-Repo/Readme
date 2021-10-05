@@ -1,9 +1,8 @@
 # Readme
 Read this first!
 
-My-JavaScript-Repo 
+My-JavaScript-Repo Learning Order:
 
-learning Order:
 1. Programming as conversation Part 1: Expression
 
     - https://github.com/My-JavaScript-Repo/PartOne-Expression-1-Introduction-to-Programming-as-Conversation
