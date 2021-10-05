@@ -5,20 +5,22 @@ My-JavaScript-Repo
 
 learning Order:
 1. Programming as conversation Part 1: Expression
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-1-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-2-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-3-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-4-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-5-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-6-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-7-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-8-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-9-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-10-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-11-of-12
-    - https://github.com/My-JavaScript-Repo/PartOne-Expression-12-of-12
+
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-1-Introduction-to-Programming-as-Conversation
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-2-Expressions-in-JavaScript
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-3-The-Constant-Expression
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-4-The-Assignment-Expression
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-5-The-Variable-Lookup-Expression
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-6-JavaScript-Variables
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-7-JavaScript-Data-Types
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-8-Working-With-Strings
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-9-Boolean-Expressions
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-10-Comparisons-in-JavaScript
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-11-Logical-Operators
+    - https://github.com/My-JavaScript-Repo/PartOne-Expression-12-Programming-with-Expressions
   
 3. Programming as conversation Part 2: Statements
+
     - https://github.com/My-JavaScript-Repo/PartTwo-Statements-1-Introduction
     - https://github.com/My-JavaScript-Repo/PartTwo-Statements-2-Default-Sequence-and-Comments
     - https://github.com/My-JavaScript-Repo/PartTwo-Statements-3-Selection-with-Conditionals-the-if-Statement
@@ -27,6 +29,7 @@ learning Order:
     - https://github.com/My-JavaScript-Repo/PartTwo-Statements-6-Repetition-the-while-Loop
 
 5. Programming as conversation Part 3: Bundling Expressions and Statements into Functions
+
     - https://github.com/My-JavaScript-Repo/PartThree-Bundling-1-Introduction
     - https://github.com/My-JavaScript-Repo/PartThree-Bundling-2-Testing-With-Javascript
     - https://github.com/My-JavaScript-Repo/PartThree-Bundling-3-testing-JavaScript-Lab
@@ -36,6 +39,7 @@ learning Order:
     - https://github.com/My-JavaScript-Repo/PartThree-Bundling-7-Calculator-Challenge-Lab
     
 7. Working with Data Structures
+
     - https://github.com/My-JavaScript-Repo/Data-Structures-1-intro
     - https://github.com/My-JavaScript-Repo/Data-Structures-2-arrays
     - https://github.com/My-JavaScript-Repo/Data-Structures-3-array-methods
@@ -50,6 +54,7 @@ learning Order:
     - https://github.com/My-JavaScript-Repo/Data-Structures-12-traversing-nested-objects
     
 9. Manipulating the DOM
+
     - https://github.com/My-JavaScript-Repo/Dom-1-introduction
     - https://github.com/My-JavaScript-Repo/Dom-2-editing-lab
     - https://github.com/My-JavaScript-Repo/Dom-3-Changing-the-DOM-dev-tools
@@ -58,6 +63,7 @@ learning Order:
     - https://github.com/My-JavaScript-Repo/Dom-6-modifying-elements-lab
    
 11. JavaScript Events
+
     - https://github.com/My-JavaScript-Repo/Javascript-events-1
     - https://github.com/My-JavaScript-Repo/Javascript-events-2-event-listening-lab
     - https://github.com/My-JavaScript-Repo/Javascript-events-3-acting-on-events-lab
@@ -69,6 +75,7 @@ learning Order:
     - https://github.com/My-JavaScript-Repo/Javascript-events-9-meditation-trainer
     
 13. Asynchronous JavaScript
+
     - https://github.com/My-JavaScript-Repo/js-async-1-fetch-readme
     - https://github.com/My-JavaScript-Repo/js-async-2-ice-and-fire-fetch-lab
     - https://github.com/My-JavaScript-Repo/js-async-3-weather-api-lab
