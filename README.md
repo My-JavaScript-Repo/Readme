@@ -19,21 +19,21 @@ learning Order:
     - https://github.com/My-JavaScript-Repo/PartOne-Expression-12-of-12
   
 3. Programming as conversation Part 2: Statements
-    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-1-of-6
-    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-2-of-6
-    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-3-of-6
-    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-4-of-6
-    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-5-of-6
-    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-6-of-6
+    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-1-Introduction
+    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-2-Default-Sequence-and-Comments
+    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-3-Selection-with-Conditionals-the-if-Statement
+    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-4-Selection-with-Conditional-the-switch-Statement
+    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-5-Logging-in-JavaScript
+    - https://github.com/My-JavaScript-Repo/PartTwo-Statements-6-Repetition-the-while-Loop
 
 5. Programming as conversation Part 3: Bundling Expressions and Statements into Functions
-    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-1-of-7
-    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-2-of-7
-    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-3-of-7
-    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-4-of-7
-    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-5-of-7
-    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-6-of-7
-    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-7-of-7
+    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-1-Introduction
+    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-2-Testing-With-Javascript
+    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-3-testing-JavaScript-Lab
+    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-4-Functions-in-JavaScript
+    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-5-intro-Functions-Lab
+    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-6-Function-Parameters-Lab
+    - https://github.com/My-JavaScript-Repo/PartThree-Bundling-7-Calculator-Challenge-Lab
     
 7. Working with Data Structures
     - https://github.com/My-JavaScript-Repo/Data-Structures-1-intro
